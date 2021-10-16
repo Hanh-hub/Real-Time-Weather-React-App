@@ -12,5 +12,5 @@ From the terminal, inside the app folder run "yarn start".
 ## APIs Used:
 -openweather API:  https://openweathermap.org/api
 
-<img src="demo1.png" alt="My cool logo"/>
+![Optional Text](../main/demo1.png)
 # My cool project and above is the logo of it
