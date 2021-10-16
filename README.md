@@ -12,5 +12,5 @@ From the terminal, inside the app folder run "yarn start".
 ## APIs Used:
 -openweather API:  https://openweathermap.org/api
 
-![Image of Yaktocat](https://github.com/Hanh-hub/realtime-weather-api-react-app/blob/main/demo1.PNG)
-# My cool project and above is the logo of it
+![Demo picture 1](https://github.com/Hanh-hub/realtime-weather-api-react-app/blob/main/demo1.PNG)
+ ![Demo picture 2](https://github.com/Hanh-hub/realtime-weather-api-react-app/blob/main/demo2.PNG)
